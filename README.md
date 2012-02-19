@@ -1,24 +1,23 @@
 ### Placeholder Repo for Apache Callback poding Board Reports
 
-## 2011 Schedule
+Reports are submitted to the incubator wiki here: http://wiki.apache.org/incubator/February2012
 
-- Nov 9
-- Dec 14
+    make sure you enter the correct MonthYear ------------------------------------------^
+
+Reports are due here by the first Wednesday of the month.
 
 ## 2012 Schedule
 
-- Jan 11
-- Feb 8
-- Mar 14
-- Apr 11
-- May 9
+- Mar 7
+- Apr 1
+- May 6
 - Jun 13
-- Jul 11
+- Jul 1
 - Aug 8
-- Sep 12
-- Oct 10
-- Nov 14
-- Dec 12
+- Sep 2
+- Oct 7
+- Nov 4
+- Dec 2
 
 ---
 
