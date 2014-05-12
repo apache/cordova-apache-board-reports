@@ -1,28 +1,39 @@
-### Placeholder Repo for Apache Callback poding Board Reports
+### Repo for Apache Cordova Board Reports
 
-Reports are submitted to the incubator wiki here: http://wiki.apache.org/incubator/February2012
+Apache Cordova reports due each quarter: **March, June, September, and December.**
 
-    make sure you enter the correct MonthYear ------------------------------------------^
 
-Reports are due here by the first Wednesday of the month.
+Reports are due **at least one week** before the Apache Board Meeting. The relevant dates are highlighted below.
 
-## 2012 Schedule
+###2014 Board calendar
 
-- Mar 7
-- Apr 1
-- May 6
-- Jun 13
-- Jul 1
-- Aug 8
-- Sep 2
-- Oct 7
-- Nov 4
-- Dec 2
+    - 15 Jan 2014
+    - 19 Feb 2014
+    - >>>>19 March 2014<<<<
+    - 16 April 2014
+    - 21 May 2014
+    - >>>>18 June 2014<<<<
+    - 16 July 2014
+    - 20 August 2014
+    - >>>>17 September 2014<<<<
+    - 15 October 2014
+    - 19 November 2014
+    - >>>>17 December 2014<<<<
 
 ---
 
-For more info on reports see:
+### Board Report Template
 
 - http://community.apache.org/boardreport.html
-- http://wiki.apache.org/incubator/ReportingSchedule
+
+### Change PMC membership or the Chair:
+
+- https://svn.apache.org/repos/private/committers/board/committee-info.txt
+
+
+### Links
+
+- http://community.apache.org/boardreport.html
 - http://apache.org/foundation/board/reporting
+
+
