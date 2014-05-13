@@ -24,21 +24,33 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 
 ### Board Report Template
 
-- http://community.apache.org/boardreport.html
+- [http://community.apache.org/boardreport.html](http://community.apache.org/boardreport.html)
 
-### Change the PMC Membership or Chair:
+### Change the PMC Chair:
 
-- http://www.apache.org/dev/pmc.html
+- [http://www.apache.org/dev/pmc.html#newchair](http://www.apache.org/dev/pmc.html#newchair)
+
+### We want to add a developer as a committer, and consequently the PMC (our project rule). What does the PMC chair have to do?
+
+1. Adding a new Committer (PMC or Chair): [https://community.apache.org/newcommitter.html](https://community.apache.org/newcommitter.html)
+2. Adding a new PMC member (PMC or Chair): [http://www.apache.org/dev/pmc.html#newpmc](http://www.apache.org/dev/pmc.html#newpmc), wait 72 hours for any Board objections
+3. Update (PMCChair only) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date.
+4. ssh (Chair only) to [people.apache.org](ssh://people.apache.org) then:
+5. 
+        modify_committee.pl {project} --add id
+        
+**All four steps have to be done properly to fulfill all Apache Board requirements (you'll get a reminder eventually if you did anything wrong).**
+
 
 ### URL Shortener for Board Reports:
 
-- http://s.apache.org/
+- [http://s.apache.org/](http://s.apache.org/)
 
 ### Links
 
-- http://community.apache.org/boardreport.html
-- http://apache.org/foundation/board/reporting
-- http://www.apache.org/dev/pmc.html
-- https://svn.apache.org/repos/private/committers/board/committee-info.txt
+- [http://community.apache.org/boardreport.html](http://community.apache.org/boardreport.html)
+- [http://apache.org/foundation/board/reporting](http://apache.org/foundation/board/reporting)
+- [http://www.apache.org/dev/pmc.html](http://www.apache.org/dev/pmc.html)
+- [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt)
 
 
