@@ -26,14 +26,19 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 
 - http://community.apache.org/boardreport.html
 
-### Change PMC membership or the Chair:
+### Change the PMC Membership or Chair:
 
-- https://svn.apache.org/repos/private/committers/board/committee-info.txt
+- http://www.apache.org/dev/pmc.html
 
+### URL Shortener for Board Reports:
+
+- http://s.apache.org/
 
 ### Links
 
 - http://community.apache.org/boardreport.html
 - http://apache.org/foundation/board/reporting
+- http://www.apache.org/dev/pmc.html
+- https://svn.apache.org/repos/private/committers/board/committee-info.txt
 
 
