@@ -20,7 +20,7 @@
   - [ ] Mark Koudritsky (kamrik)
 
 
-#### The following individuals are subscribed to Cordova's private list and have apparently been approved as Cordova PMC members, but will not be able to view the links I have prepared since they are not marked as "cordova-pmc" in LDAP:
+#### The following individuals are subscribed to Cordova's private list and have apparently been approved as Cordova PMC members, but are not marked as "cordova-pmc" in LDAP:
 
 - [ ] PMC Chair - add to cordova-pmc group in LDAP
   - [ ] Bryan Higgins (bhiggins)
