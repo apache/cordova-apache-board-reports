@@ -13,11 +13,11 @@
   - [X] Jeffrey Heifetz (jeffheifetz)
   - [X] Lisa Seacat DeLuca (ldeluca)
   - [X] Archana Naik (naika)
-  - [ ] Paul Plaquette (pplaquette)
-  - [ ] Regis Merlino (rmerlino)
-  - [ ] Michael Sierra (sierra)
-  - [ ] Josh Soref (jsoref)
-  - [ ] Mark Koudritsky (kamrik)
+  - [X] Paul Plaquette (pplaquette)
+  - [X] Regis Merlino (rmerlino)
+  - [X] Michael Sierra (sierra)
+  - [X] Josh Soref (jsoref)
+  - [X] Mark Koudritsky (kamrik)
 
 
 #### The following individuals are subscribed to Cordova's private list and have apparently been approved as Cordova PMC members, but are not marked as "cordova-pmc" in LDAP:
