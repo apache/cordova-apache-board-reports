@@ -1,5 +1,24 @@
 ## PMC Chair ToDos
 
+#### Add PMC members to doc https://svn.apache.org/repos/private/committers/board/committee-info.txt
+
+- [ ] PMC - add to committee-info.txt
+  - [ ] Bryan Higgins (bhiggins)
+  - [ ] Carlos Santana (csantanapr)
+  - [ ] Marcel Kinard (marcelk)
+  - [ ] Michael Billau (mrbillau)
+  - [ ] Benn Mapes (bennmapes)
+  - [ ] Cristophe Guiraud (cguiraud)
+  - [ ] David Kemp (drkemp)
+  - [ ] Jeffrey Heifetz (jeffheifetz)
+  - [ ] Josh Soref (jsoref)
+  - [ ] Mark Koudritsky (kamrik)
+  - [ ] Lisa Seacat DeLuca (ldeluca)
+  - [ ] Archana Naik (naika)
+  - [ ] Paul Plaquette (pplaquette)
+  - [ ] Regis Merlino (rmerlino)
+  - [ ] Michael Sierra (sierra)
+
 
 #### The following individuals are subscribed to Cordova's private list and have apparently been approved as Cordova PMC members, but will not be able to view the links I have prepared since they are not marked as "cordova-pmc" in LDAP:
 
