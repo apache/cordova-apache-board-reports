@@ -2,7 +2,7 @@
 
 #### Add PMC members to doc https://svn.apache.org/repos/private/committers/board/committee-info.txt
 
-- [ ] PMC - add to committee-info.txt
+- [X] PMC - add to committee-info.txt
   - [X] Bryan Higgins (bhiggins)
   - [X] Carlos Santana (csantanapr)
   - [X] Marcel Kinard (marcelk)
