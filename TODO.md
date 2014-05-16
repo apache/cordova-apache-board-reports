@@ -25,7 +25,7 @@
 - [ ] PMC Chair - add to cordova-pmc group in LDAP
   - [X] Bryan Higgins (bhiggins)
   - [ ] Carlos Santana (csantanapr)
-  - [ ] Marcel Kinard (marcelk)
+  - [X] Marcel Kinard (marcelk)
   - [ ] Michael Billau (mrbillau)
 
 
