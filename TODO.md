@@ -22,11 +22,11 @@
 
 #### The following individuals are subscribed to Cordova's private list and have apparently been approved as Cordova PMC members, but are not marked as "cordova-pmc" in LDAP:
 
-- [ ] PMC Chair - add to cordova-pmc group in LDAP
+- [X] PMC Chair - add to cordova-pmc group in LDAP
   - [X] Bryan Higgins (bhiggins)
-  - [ ] Carlos Santana (csantanapr)
+  - [X] Carlos Santana (csantanapr)
   - [X] Marcel Kinard (marcelk)
-  - [ ] Michael Billau (mrbillau)
+  - [X] Michael Billau (mrbillau)
 
 
 #### There are a number of individuals who apparently have been approved as Cordova PMC members but who are neither in LDAP nor subscribed to Cordova's private list -- and are thus not able to participate fully in Cordova project governance as is their right:
