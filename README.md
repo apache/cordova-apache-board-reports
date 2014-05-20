@@ -26,6 +26,10 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 
 - [http://community.apache.org/boardreport.html](http://community.apache.org/boardreport.html)
 
+### Current Cordova Committee List
+
+- [https://whimsy.apache.org/roster/committee/cordova](https://whimsy.apache.org/roster/committee/cordova)
+
 ### Change the PMC Chair:
 
 - [http://www.apache.org/dev/pmc.html#newchair](http://www.apache.org/dev/pmc.html#newchair)
