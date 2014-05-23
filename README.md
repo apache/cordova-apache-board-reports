@@ -30,6 +30,10 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 
 - [https://whimsy.apache.org/roster/committee/cordova](https://whimsy.apache.org/roster/committee/cordova)
 
+### Search for a Committer
+
+- [https://whimsy.apache.org/roster/committer/](https://whimsy.apache.org/roster/committer/)
+ 
 ### Change the PMC Chair:
 
 - [http://www.apache.org/dev/pmc.html#newchair](http://www.apache.org/dev/pmc.html#newchair)
