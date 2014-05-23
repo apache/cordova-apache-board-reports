@@ -46,9 +46,7 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
         
 **All five steps have to be done properly to fulfill all Apache Board requirements (you'll get a reminder eventually if you did anything wrong).**
 
-Optionally, you might want to automatically subscribe the new PMC member to the private list, see:
-
-        http://untroubled.org/ezmlm/manual/Remote-Administration.html
+Optionally, you might want to automatically [ subscribe the new PMC member to the private list.](http://untroubled.org/ezmlm/manual/Remote-Administration.html)
 
 ### URL Shortener for Board Reports:
 
