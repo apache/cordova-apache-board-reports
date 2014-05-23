@@ -56,6 +56,10 @@ Optionally, you might want to automatically [ subscribe the new PMC member to th
 
 - [http://s.apache.org/](http://s.apache.org/)
 
+### Apache Mailing Lists
+
+- [http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
+
 ### Links
 
 - [http://community.apache.org/boardreport.html](http://community.apache.org/boardreport.html)
