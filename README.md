@@ -58,8 +58,9 @@ Optionally, you might want to automatically [ subscribe the new PMC member to th
 
 ### Apache Mailing Lists
 
-- [http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
-
+- [Public: http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
+- [Private: https://mail-search.apache.org/](https://mail-search.apache.org/)
+- 
 ### Links
 
 - [http://community.apache.org/boardreport.html](http://community.apache.org/boardreport.html)
