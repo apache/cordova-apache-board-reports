@@ -56,6 +56,17 @@ Optionally, you might want to automatically [ subscribe the new PMC member to th
 
 - [http://s.apache.org/](http://s.apache.org/)
 
+### Calculating Stats for Board Reports:
+
+For example, if doing the board report for September, you should tally the numbers for the previous 3 months of Aug, July and June (exclude the current reporting month).
+
+- commits: count the # of emails in the [commits@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-commits/)
+- emails: count the # of emails in the [dev@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-dev/)
+- issues/comments on issues: count the # of emails in the [issues@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-issues/)
+- iCLAs: counting them in [private@](https://mail-search.apache.org/pmc/private-arch/cordova-private/), filtered
+- downloads: [cordova stats on npm](http://npm-stat.com/charts.html?package=cordova)
+
+
 ### Apache Mailing Lists
 
 - [Public: http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
