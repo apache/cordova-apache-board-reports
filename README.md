@@ -63,7 +63,7 @@ For example, if doing the board report for September, you should tally the numbe
 - commits: count the # of emails in the [commits@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-commits/)
 - emails: count the # of emails in the [dev@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-dev/)
 - issues/comments on issues: count the # of emails in the [issues@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-issues/)
-- iCLAs: counting them in [private@](https://mail-search.apache.org/pmc/private-arch/cordova-private/), filtered
+- iCLAs: counting them in [private@](https://mail-search.apache.org/pmc/private-arch/cordova-private/), filtered. Note that only Apache Members can search this type of list, PMC members (even Chairs), cannot -- so you will have to search your own private email archive.
 - downloads: [cordova stats on npm](http://npm-stat.com/charts.html?package=cordova)
 
 
