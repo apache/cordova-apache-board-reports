@@ -43,7 +43,7 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 1. Adding a new Committer (by any PMC member): [https://community.apache.org/newcommitter.html](https://community.apache.org/newcommitter.html) - make sure to include a link to the [Committer's FAQ](www.apache.org/dev/committers.html)
 2. Adding a new PMC member (by any PMC member): [http://www.apache.org/dev/pmc.html#newpmc](http://www.apache.org/dev/pmc.html#newpmc), wait 72 hours for any Board objections
 3. Create a New Account Request (PMC Chair only): [https://id.apache.org/acreq/](https://id.apache.org/acreq/)
-4. Update (by any PMC member) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date (date of [NOTICE]).
+4. Update (by any PMC member) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date (date that the file was updated).
 5. ssh (PMC Chair only) to [people.apache.org](ssh://people.apache.org) then:
 
         modify_committee.pl {project} --add id
