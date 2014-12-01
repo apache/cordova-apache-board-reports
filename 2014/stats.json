@@ -22,7 +22,7 @@
             "title" : "Dev-Emails",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "3000" },
-                { "title": "Sep-2014", "value" : "3700" }
+                { "title": "Sep-2014", "value" : "3700" },
                 { "title": "Dec-2014", "value" : "2800" }
             ]
         },
@@ -55,7 +55,7 @@
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "31" },
                 { "title": "Sep-2014", "value" : "44" },
-                { "title": "Dec-2014", "value" : "60" },
+                { "title": "Dec-2014", "value" : "60" }
             ]
         },
         {
