@@ -6,14 +6,16 @@
             "title" : "Repositories",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "51" },
-                { "title": "Sep-2014", "value" : "52" }
+                { "title": "Sep-2014", "value" : "52" },
+                { "title": "Dec-2014", "value" : "52" }
             ]
         },
         {
             "title" : "Commits",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "2700" },
-                { "title": "Sep-2014", "value" : "2500" }
+                { "title": "Sep-2014", "value" : "2500" },
+                { "title": "Dec-2014", "value" : "2100" }
             ]
         },
         {
@@ -21,41 +23,47 @@
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "3000" },
                 { "title": "Sep-2014", "value" : "3700" }
+                { "title": "Dec-2014", "value" : "2800" }
             ]
         },
         {
             "title" : "Issues/Comments On Issues",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "3900" },
-                { "title": "Sep-2014", "value" : "4400" }
+                { "title": "Sep-2014", "value" : "4400" },
+                { "title": "Dec-2014", "value" : "4500" }
             ]
         },
         {
             "title" : "Contributors (iCLA)",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "9" },
-                { "title": "Sep-2014", "value" : "8" }
+                { "title": "Sep-2014", "value" : "8" },
+                { "title": "Dec-2014", "value" : "8" }
             ]
         },
         {
             "title" : "New Committers/PMC Members",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "1" },
-                { "title": "Sep-2014", "value" : "2" }
+                { "title": "Sep-2014", "value" : "2" },
+                { "title": "Dec-2014", "value" : "2" }
             ]
         },
         {
             "title" : "New Releases",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "31" },
-                { "title": "Sep-2014", "value" : "44" }
+                { "title": "Sep-2014", "value" : "44" },
+                { "title": "Dec-2014", "value" : "60" },
             ]
         },
         {
             "title" : "cordova downloads from npm",
             "datapoints" : [
                 { "title": "Jun-2014", "value" : "302,000" },
-                { "title": "Sep-2014", "value" : "329,000" }
+                { "title": "Sep-2014", "value" : "329,000" },
+                { "title": "Sep-2014", "value" : "436,000" }
             ]
         }
     ]
