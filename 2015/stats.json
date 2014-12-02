@@ -1,0 +1,78 @@
+{
+"title" : "Apache Cordova",
+"datasequences" :
+    [
+        {
+            "title" : "Repositories",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "Commits",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "Dev-Emails",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "Issues/Comments On Issues",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "Contributors (iCLA)",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "New Committers/PMC Members",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "New Releases",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        },
+        {
+            "title" : "cordova downloads from npm",
+            "datapoints" : [
+                { "title": "Mar-2015", "value" : "0" },
+                { "title": "Jun-2015", "value" : "0" },
+                { "title": "Sep-2015", "value" : "0" },
+                { "title": "Dec-2015", "value" : "0" }
+            ]
+        }
+    ]
+}
