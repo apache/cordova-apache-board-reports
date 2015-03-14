@@ -58,7 +58,7 @@ Optionally, you might want to automatically [ subscribe the new PMC member to th
 
 - [http://s.apache.org/](http://s.apache.org/)
 
-### Calculating Stats for Board Reports:
+### Generating/Calculating Stats for Board Reports:
 
 For example, if doing the board report for September, you should tally the numbers for the previous 3 months of Aug, July and June (exclude the current reporting month).
 
@@ -68,6 +68,18 @@ For example, if doing the board report for September, you should tally the numbe
 - iCLAs: counting them in [private@](https://mail-search.apache.org/pmc/private-arch/cordova-private/), filtered. Note that only Apache Members can search this type of list, PMC members (even Chairs), cannot -- so you will have to search your own private email archive.
 - downloads: [cordova stats on npm](http://npm-stat.com/charts.html?package=cordova)
 
+OR you can use this as a starter:
+
+- [https://reporter.apache.org/](https://reporter.apache.org/)
+
+### Posting Board Reports (PMC Chair)
+
+1. Email "board (at) apache (dot) org". Use subject: "[REPORT] Apache Cordova (MONTH YEAR)".
+2. Update the appropriate Board Agenda text file at https://svn.apache.org/repos/private/foundation/board/
+
+OR use this tool:
+
+- [https://whimsy.apache.org/board/posted-reports](https://whimsy.apache.org/board/posted-reports)
 
 ### Apache Mailing Lists
 
