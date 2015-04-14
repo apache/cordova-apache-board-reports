@@ -81,6 +81,10 @@ OR use this tool:
 
 - [https://whimsy.apache.org/board/posted-reports](https://whimsy.apache.org/board/posted-reports)
 
+### Resignation of a PMC Member (PMC Chair)
+
+See [http://www.apache.org/dev/pmc.html#emeritus](http://www.apache.org/dev/pmc.html#emeritus) for steps.
+
 ### Apache Mailing Lists
 
 - [Public: http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
