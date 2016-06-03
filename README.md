@@ -44,7 +44,7 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 2. Adding a new PMC member (by any PMC member): [http://www.apache.org/dev/pmc.html#newpmc](http://www.apache.org/dev/pmc.html#newpmc), wait 72 hours for any Board objections
 3. Create a New Account Request (PMC Chair only): [https://id.apache.org/acreq/](https://id.apache.org/acreq/) OR add an existing account as committer/pmc: [https://www.apache.org/dev/pmc.html#SVNaccess](https://www.apache.org/dev/pmc.html#SVNaccess)
 4. Update (by any PMC member) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date (date that the file was updated).
-5. Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy-test.apache.org](https://whimsy-test.apache.org/roster/committee/cordova).
+5. Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy.apache.org](https://whimsy.apache.org/roster/committee/cordova).
 
 **All five steps have to be done properly to fulfill all Apache Board requirements (you'll get a reminder eventually if you did anything wrong).**
 
