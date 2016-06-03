@@ -85,6 +85,11 @@ OR use this tool:
 
 See [http://www.apache.org/dev/pmc.html#emeritus](http://www.apache.org/dev/pmc.html#emeritus) for steps.
 
+## Apache Cordova Mailing List Browser (NEW)
+
+- [private@, requires login](lists.apache.org/list.html?private@cordova.apache.org)
+- [dev@](https://lists.apache.org/list.html?dev@cordova.apache.org)
+
 ### Apache Mailing Lists
 
 - [Public: http://www.apache.org/foundation/mailinglists.html](http://www.apache.org/foundation/mailinglists.html)
