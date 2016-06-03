@@ -46,6 +46,8 @@ Reports are due **at least one week** before the Apache Board Meeting. The relev
 4. Update (by any PMC member) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date (date that the file was updated).
 5. Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy.apache.org](https://whimsy.apache.org/roster/committee/cordova).
 
+    If that fails, you will need to SSH to minotaur.apache.org and run the `modify_committee.pl` command (run it without parameters to see the help text)
+
 **All five steps have to be done properly to fulfill all Apache Board requirements (you'll get a reminder eventually if you did anything wrong).**
 
 Optionally, you might want to automatically [ subscribe the new PMC member to the private list.](http://untroubled.org/ezmlm/manual/Remote-Administration.html). For example to add `name@example.com` to the `private@cordova.apache.org` mailing list, email to:
