@@ -3,22 +3,22 @@
 Apache Cordova reports due each quarter: **March, June, September, and December.**
 
 
-Reports are due **at least one week** before the Apache Board Meeting. The relevant dates are highlighted below.
+Reports are due **at least one week** before the [Apache Board Meeting](http://www.apache.org/foundation/board/calendar.html). The relevant dates are highlighted below.
 
-###2015 Board calendar
+###2016 Board calendar
 
-    - 21 January 2015
-    - 18 February 2015
-    - >>>>18 March 2015<<<<
-    - 15 April 2015
-    - 20 May 2015
-    - >>>>19 June 2015<<<<
-    - 15 July 2015
-    - 19 August 2015
-    - >>>>16 September 2015<<<<
-    - 14 October 2015
-    - 18 November 2015
-    - >>>>16 December 2015<<<<
+    - 20 January 2016
+    - 17 February 2016
+    - >>>>16 March 2016<<<<
+    - 20 April 2016
+    - 18 May 2016
+    - >>>>15 June 2016<<<<
+    - 20 July 2016
+    - 17 August 2016
+    - >>>>21 September 2016<<<<
+    - 19 October 2016
+    - 16 November 2016
+    - >>>>21 December 2016<<<<
 
 ---
 
