@@ -13,11 +13,11 @@ However, we vote on a community member to be **a Committer AND a PMC member** at
 
 
 ```
-Subject: [VOTE] Nominating New Committer and PMC Member: FirstName LastName
+Subject: [VOTE] Nominating New Committer and PMC Member: XXXX
 
 Hey everyone,
 
-I would like to nominate FirstName LastName as a Cordova committer and PMC member.
+I would like to nominate XXXX as a Cordova committer and PMC member.
 [JUSTIFICATIONS]
 
 I vote +1
