@@ -105,7 +105,7 @@ If the user **already has an Apache account** (due to being a committer from ano
 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file (any PMC member)
 ---
 
-Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date (date that the file was updated).
+Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**.
 
 **Spaces**, not tabs!
 
