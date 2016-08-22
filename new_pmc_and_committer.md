@@ -92,8 +92,11 @@ Use the template below.
 Apache Cordova proposes to invite XXXX to join the PMC.
 
 Vote link:  
-(NOTE: use a permalink from http://lists.apache.org/list.html?private@cordova.apache.org, make sure to login to see it)
+(NOTE: use a permalink to the vote result from the procedure below)
 ```
+
+For the **vote result link**, 
+[login first](https://lists.apache.org/oauth.html), then go [here](http://lists.apache.org/list.html?private@cordova.apache.org) to see the private@ archive. Find the vote result email and copy the permalink.
 
 5. When the new committer accepts the invite, create a new account for the user (PMC Chair only)
 ---
