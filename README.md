@@ -40,13 +40,7 @@ Reports are due **at least one week** before the [Apache Board Meeting](http://w
 
 ### We want to add a developer as a committer, and consequently the PMC (our project rule). What does the PMC chair have to do?
 
-1. Adding a new Committer (by any PMC member): [https://community.apache.org/newcommitter.html](https://community.apache.org/newcommitter.html) - make sure to include a link to the [Committer's FAQ](www.apache.org/dev/committers.html)
-2. Adding a new PMC member (by any PMC member): [http://www.apache.org/dev/pmc.html#newpmc](http://www.apache.org/dev/pmc.html#newpmc), wait 72 hours for any Board objections
-3. Create a New Account Request (PMC Chair only): [https://id.apache.org/acreq/](https://id.apache.org/acreq/) OR add an existing account as committer/pmc: [https://www.apache.org/dev/pmc.html#SVNaccess](https://www.apache.org/dev/pmc.html#SVNaccess)
-4. Update (by any PMC member) [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt) with the new PMC member's details and the effective join date (date that the file was updated).
-5. Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy.apache.org](https://whimsy.apache.org/roster/committee/cordova).
-
-    If that fails, you will need to SSH to minotaur.apache.org and run the `modify_committee.pl` command (run it without parameters to see the help text)
+File a new issue in the [new_committer_and_pmc repo](https://github.com/cordova/new_committer_and_pmc).
 
 **All five steps have to be done properly to fulfill all Apache Board requirements (you'll get a reminder eventually if you did anything wrong).**
 
