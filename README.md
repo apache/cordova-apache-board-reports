@@ -91,5 +91,5 @@ See [http://www.apache.org/dev/pmc.html#emeritus](http://www.apache.org/dev/pmc.
 - [https://svn.apache.org/repos/private/committers/board/committee-info.txt](https://svn.apache.org/repos/private/committers/board/committee-info.txt)
 - [https://svn.apache.org/repos/private/pmc/cordova](https://svn.apache.org/repos/private/pmc/cordova)
 - [https://svn.apache.org/repos/private/foundation](https://svn.apache.org/repos/private/foundation)
-
+- [https://svn.apache.org/repos/private/committers](https://svn.apache.org/repos/private/committers)
 
