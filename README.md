@@ -75,7 +75,7 @@ See [http://www.apache.org/dev/pmc.html#emeritus](http://www.apache.org/dev/pmc.
 
 ## Apache Cordova Mailing List Browser (NEW)
 
-- [private@, requires login](lists.apache.org/list.html?private@cordova.apache.org)
+- [private@, requires login](https://lists.apache.org/list.html?private@cordova.apache.org)
 - [dev@](https://lists.apache.org/list.html?dev@cordova.apache.org)
 
 ### Apache Mailing Lists
