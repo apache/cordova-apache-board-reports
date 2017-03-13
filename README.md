@@ -7,19 +7,17 @@ Reports are due **at least one week** before the [Apache Board Meeting](http://w
 
 ###2016 Board calendar
 
-    - 20 January 2016
-    - 17 February 2016
-    - >>>>16 March 2016<<<<
-    - 20 April 2016
-    - 18 May 2016
-    - >>>>15 June 2016<<<<
-    - 20 July 2016
-    - 17 August 2016
-    - >>>>21 September 2016<<<<
-    - 19 October 2016
-    - 16 November 2016
-    - >>>>21 December 2016<<<<
-
+    - >>>>>>20 December 2017<<<<<<
+    - 15 November 2017
+    - 18 October 2017
+    - >>>>>>20 September 2017<<<<<<
+    - 16 August 2017
+    - >>>>>>19 July 2017
+    - >>>>>>21 June 2017<<<<<<
+    - 17 May 2017
+    - 19 April 2017
+    - >>>>>>15 March 2017<<<<<<
+    - 27 February 2017
 ---
 
 ### Board Report Template
