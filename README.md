@@ -48,26 +48,23 @@ File a new issue in the [new_committer_and_pmc repo](https://github.com/cordova/
 
 ### Generating/Calculating Stats for Board Reports:
 
-For example, if doing the board report for September, you should tally the numbers for the previous 3 months of Aug, July and June (exclude the current reporting month).
-
-- commits: count the # of emails in the [commits@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-commits/)
-- emails: count the # of emails in the [dev@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-dev/)
-- issues/comments on issues: count the # of emails in the [issues@ mailing list](https://mail-archives.apache.org/mod_mbox/cordova-issues/)
-- iCLAs: counting them in [private@](https://mail-search.apache.org/pmc/private-arch/cordova-private/), filtered. Note that only Apache Members can search this type of list, PMC members (even Chairs), cannot -- so you will have to search your own private email archive.
-- downloads: [cordova stats on npm](http://npm-stat.com/charts.html?package=cordova)
-
-OR you can use this as a starter:
+Use the template here as a starter:
 
 - [https://reporter.apache.org/](https://reporter.apache.org/)
 
 ### Posting Board Reports (PMC Chair)
 
+1. Go to [https://whimsy.apache.org/board/agenda](https://whimsy.apache.org/board/agenda)
+2. Select `Cordova`
+3. On the bottom toolbar, select `Post Report`
+4. Paste in the report (Markdown format)
+5. Select `Submit`
+6. Select `Send Email` button at the end of the report
+
+In case Whimsy does not work, the **manual** method:
+
 1. Email "board (at) apache (dot) org". Use subject: "[REPORT] Apache Cordova (MONTH YEAR)".
 2. Update the appropriate Board Agenda text file at https://svn.apache.org/repos/private/foundation/board/
-
-OR use this tool:
-
-- [https://whimsy.apache.org/board/posted-reports](https://whimsy.apache.org/board/posted-reports)
 
 ### Resignation of a PMC Member (PMC Chair)
 
