@@ -66,6 +66,10 @@ In case Whimsy does not work, the **manual** method:
 1. Email "board (at) apache (dot) org". Use subject: "[REPORT] Apache Cordova (MONTH YEAR)".
 2. Update the appropriate Board Agenda text file at https://svn.apache.org/repos/private/foundation/board/
 
+### Github Issues Stats
+
+See [Jan's Github Issues Stats](http://cordova.betamo.de/cordova-board-reports-issue-and-pr-searches.php) [[source](https://lists.apache.org/thread.html/dce1f1675571058ef91abc3e28fde4b24bbbec874f8ea3a1c300bb14@%3Cdev.cordova.apache.org%3E)]
+
 ### Resignation of a PMC Member (PMC Chair)
 
 See [http://www.apache.org/dev/pmc.html#emeritus](http://www.apache.org/dev/pmc.html#emeritus) for steps.
