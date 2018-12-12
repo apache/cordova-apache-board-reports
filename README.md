@@ -38,6 +38,8 @@ Reports are due **at least one week** before the [Apache Board Meeting](http://w
 
 - [http://www.apache.org/dev/pmc.html#newchair](http://www.apache.org/dev/pmc.html#newchair)
 
+Use [Whimsy](https://whimsy.apache.org/board/agenda), sign in, then press the "Add Item" button on the bottom toolbar. Select the new `Incoming Chair` PMC member in the dropdown list, then press the "Draft" button.
+
 ### We want to add a developer as a committer, and consequently the PMC (our project rule). What does the PMC chair have to do?
 
 File a new issue in the [new_committer_and_pmc repo](https://github.com/cordova/new_committer_and_pmc).
