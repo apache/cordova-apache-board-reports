@@ -2,24 +2,8 @@
 
 Apache Cordova reports due each quarter: **March, June, September, and December.**
 
+Reports are due **at least one week** before the [Apache Board Meeting](http://www.apache.org/foundation/board/calendar.html).
 
-Reports are due **at least one week** before the [Apache Board Meeting](http://www.apache.org/foundation/board/calendar.html). Currently meetings are scheduled for the third Wednesday of each month. The relevant dates are highlighted below.
-
-### 2020 Board calendar
-
-    - >>>>>>9 December 2020<<<<<<
-    - 11 November 2020
-    - 14 October 2020
-    - >>>>>>9 September 2020<<<<<<
-    - 12 August 2020
-    - 8 July 2020
-    - >>>>>>10 June 2020<<<<<<
-    - 13 May 2020
-    - 8 April 2020
-    - >>>>>>11 March 2020<<<<<<
-    - 12 February 2020
-    - 8 January 2020
-    
 ---
 
 ### Board Report Template
